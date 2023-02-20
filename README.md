@@ -19,6 +19,9 @@
    ]
    }
 4) A static website hosting was turned on for the bucket to have access to.
+5) A CloudFront Distribution  has been created  https://drxdg7s7jy0ez.cloudfront.net
+6) To block the access to the bucket  the static website hosting has been turned off.
+
 
 
   `Task 2.2 Automated Deployment` What was done:
